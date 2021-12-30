@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>graphics/coin2.png</file>
+        <file>graphics/hammer2.png</file>
+        <file>graphics/island.png</file>
+        <file>graphics/player1.png</file>
+        <file>graphics/player2.png</file>
+        <file>graphics/wall.png</file>
+        <file>graphics/wall2.png</file>
+        <file>graphics/background.png</file>
+        <file>graphics/storm.png</file>
+        <file>graphics/islandX.png</file>
+        <file>graphics/hammer.png</file>
+        <file>graphics/coin.png</file>
+    </qresource>
+</RCC>
